@@ -1,0 +1,23 @@
+* {
+    font-family: 'Noto Sans';
+}
+
+body {
+    background-color: #f5f1a7 !important;
+    background-image: url(assets/img/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-position-y: bottom;
+}
+
+.btn-maroon {
+    background-color: #820000 !important;
+    box-shadow: none !important;
+    color: white !important;
+    transition: all ease 0.3s !important;
+}
+
+.btn-maroon:hover {
+    opacity: 0.75 !important;
+}
